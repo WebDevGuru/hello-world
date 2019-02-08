@@ -2,4 +2,4 @@
 Learning to create a repository
 
 Getting used to GitHub 
-A sample readme file
+A sample readme file to learn branches
